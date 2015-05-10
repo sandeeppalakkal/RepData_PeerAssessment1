@@ -115,7 +115,7 @@ print(paste0(as.character(maxStepInterval %/% 100), ":", as.character(maxStepInt
 ```
 ## [1] "8:35"
 ```
-The maximum average number of steps is taken at the 5-minutes interval = 835  (i.e.,  at 8:55 A.M. hours).
+The maximum average number of steps is taken at the 5-minutes interval = 835  (i.e.,  at 8:35 A. M. hours).
 
 The maximum average number of steps is computed below.
 
